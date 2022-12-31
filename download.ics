@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://app.ens.domains/name/raku.eth/details
+METHOD:PUBLISH
+DTSTART:20230808T030041
+DTEND:20230808T050041
+SUMMARY:Extend the registration of your ENS domain raku.eth
+DESCRIPTION:Your ENS name is expiring soon, please extend its registration
+LOCATION:everywhere
+END:VEVENT
+END:VCALENDAR
